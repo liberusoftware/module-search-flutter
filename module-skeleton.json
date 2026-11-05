@@ -1,0 +1,25 @@
+{
+  "repository": "module-search-flutter",
+  "capabilityKey": "liberusoftware/search",
+  "presentation": "mobile-flutter",
+  "package": "module_search_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/search.md",
+  "presentationPlan": "projects/boilerplate/flutter/search.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
